@@ -8,5 +8,5 @@ genrate a report of outdated packages.json dependencies
 
 ## Run:
 ```bash
-$ pyhton ./<path-to-script.py> <path-to-the-package.json> 
+$ python ./<path-to-script.py> <path-to-the-package.json> 
 ```
